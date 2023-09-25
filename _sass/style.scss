@@ -162,10 +162,10 @@ pre {
     background-size: cover;
     background-position: center;
     position: relative;
-    /*&:hover{
+    &:hover{
         -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-        /*filter: grayscale(100%);
-    }*/
+        filter: none;
+    }
 }
 .news-piece-1 {
     height: 350px;
