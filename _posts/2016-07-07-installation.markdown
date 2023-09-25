@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Installation"
+title:  "My name is YQC"
 categories: jekyll update
-img: yqc.jpg
+img: qyc.jpg
 categories: one
 ---
 
-Find the repository here: [Bheema](https://github.com/sharu725/bheema)
-
-A [detailed guide](https://github.com/sharu725/bheema#installation) is in the README file.
+My mother is 刮大白
